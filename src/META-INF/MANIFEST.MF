@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ JTurtle.jar equations.jar ops.jar
+Class-Path: .
+Rsrc-Main-Class: CalculatorGUI
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
